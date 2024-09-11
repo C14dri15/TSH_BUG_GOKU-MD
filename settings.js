@@ -4,30 +4,30 @@
 //Instagram: its_jeanparker
 //Telegram: t.me/Jeanparker100
 //GitHub: @Jeanparker100
-//WhatsApp: +22898133388
+//WhatsApp: +237657026536
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@Jean-Parker-tech
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "237657026536"
+global.ownername = "🌹 Acnologia Grimm 🌹"
 global.ytname = "YT: alvinblaste...13"
-global.socialm = "GitHub: Kevin-Tsh"
+global.socialm = "GitHub: Acnologia Grimm"
 global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
 
-global.ownernumber = '243891716833'  //creator number
-global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
+global.ownernumber = '237657026536'  //creator number
+global.ownername = 🌹𝔸𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒 𝔾𝕣𝕚𝕞𝕞 🌹' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
 //sticker details
 global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🐲🌹'
-global.author = 'MR KEVIN TSH'
+global.author = '𝔸𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒 𝔾𝕣𝕚𝕞𝕞 '
 
 //console view/theme
 global.themeemoji = '🌹'
-global.wm = "MR KEVIN TSH in©"
+global.wm = "𝔸𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒 𝔾𝕣𝕚𝕞𝕞  in©"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VanzxsyDOQIUiaLpTV1j'
