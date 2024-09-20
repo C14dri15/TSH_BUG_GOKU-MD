@@ -1,4 +1,4 @@
-# 𝑻𝑺𝑯_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫
+# 𝔸𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒 𝔾𝕣𝕚𝕞𝕞 _𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫
 
 **Merci de fork le repo pour plus d'encouragements**🌹
 
@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/2c8a210bf1748e32aff84.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+🐲𝐆𝐎𝐊𝐔-𝐌𝐃🐲 ;WHATSAPP+CRASH+x+BUG+BOT;  😎+DÉVELOPPÉ+PAR+😎;   🌹+𝐌𝐑.+ 𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇+🌹" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+🐲𝐆𝐎𝐊𝐔-𝐌𝐃🐲 ;WHATSAPP+CRASH+x+BUG+BOT;  😎+DÉVELOPPÉ +𝔸𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒 𝔾𝕣𝕚𝕞𝕞 +🌹" alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -21,7 +21,7 @@
 
 ## DÉPLOIEMENT SUR PANEL 3EME OPTION EN BAS.
 
-### 1. <a href="https://github.com/Kevin-Tsh/TSH_BUG_GOKU-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK GOKU-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
+### 1. <a href="https://github.com/𝔸𝕔𝕟𝕠𝕝𝕠𝕘𝕚𝕒 𝔾𝕣𝕚𝕞𝕞 _BUG_GOKU-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK GOKU-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 ### 2. <a href="https://parky-web-1.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
 
 ### 3. <a href='https://panel.solarhosting.cc' target="_blank"><img alt='Deployer sur Panel' src='https://img.shields.io/badge/-DEPLOYER SUR PANEL-pink?style=for-the-badge&logo=solar&logoColor=white'/></a>
